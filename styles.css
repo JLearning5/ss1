@@ -225,7 +225,7 @@ legend { width: 100%; padding: 0; margin: 0 0 .75rem; font-weight: 800; font-siz
   .quiz-actions .primary { flex: 1; }
   .paper-card, .footer-inner { flex-direction: column; align-items: flex-start; }
   .paper-card .button { width: 100%; }
-  .cds-poster { max-width: 17rem; }
+  .cds-poster { max-width: 17rem; justify-self: center; }
   .worksheet { width: calc(100% - 1.9rem); }
 }
 

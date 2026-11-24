@@ -1,4 +1,4 @@
-const cacheName = 'ss1-pathways-ui-fixed-v4';
+const cacheName = 'ss1-pathways-ui-fixed-v5';
 const cachePrefix = 'ss1-pathways-ui-fixed-v';
 const pages = ['./', './index.html', './worksheet.html'];
 const files = [...pages, './styles.css', './app.js', './reflection.js', './offline.js', './worksheet.pdf', './assets/icon.png', './assets/dm-sans.woff2', './assets/fraunces.woff2', './assets/edu-dl4all.webp'];
